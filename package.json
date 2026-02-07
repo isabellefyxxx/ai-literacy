@@ -1,0 +1,7 @@
+{
+  "name": "ai-literacy-test",
+  "version": "2.1.0",
+  "description": "AI Literacy Test - 检测用户 AI 素养段位的交互式测评工具",
+  "private": true,
+  "license": "MIT"
+}
